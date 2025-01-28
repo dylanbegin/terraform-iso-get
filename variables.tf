@@ -50,7 +50,7 @@ variable "common" {
 # Alma Linux
 variable "alma" {
   default = {
-    url           = "https://repo.almalinux.org/almalinux/9.4/isos/x86_64/AlmaLinux-9.4-x86_64-boot.iso"
+    url           = "https://repo.almalinux.org/almalinux/9.5/isos/x86_64/AlmaLinux-9.5-x86_64-dvd.iso"
     filename      = "alma.iso"
   }
 }
@@ -58,7 +58,7 @@ variable "alma" {
 # Alpine Linux
 variable "alpine" {
   default = {
-    url           = "https://dl-cdn.alpinelinux.org/alpine/v3.20/releases/x86_64/alpine-virt-3.20.3-x86_64.iso"
+    url           = "https://dl-cdn.alpinelinux.org/alpine/v3.21/releases/x86_64/alpine-virt-3.21.2-x86_64.iso"
     filename      = "alpine.iso"
   }
 }
@@ -66,7 +66,7 @@ variable "alpine" {
 # CentOS Streams
 variable "centos" {
   default = {
-    url           = "https://mirror.stream.centos.org/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-boot.iso"
+    url           = "https://mirror.stream.centos.org/10-stream/BaseOS/x86_64/iso/CentOS-Stream-10-20250123.0-x86_64-boot.iso"
     filename      = "centos.iso"
   }
 }
@@ -74,7 +74,7 @@ variable "centos" {
 # Debian Linux
 variable "debian" {
   default = {
-    url           = "https://cdimage.debian.org/mirror/cdimage/release/current/amd64/iso-cd/debian-12.7.0-amd64-netinst.iso"
+    url           = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.9.0-amd64-netinst.iso"
     filename      = "debian.iso"
   }
 }
@@ -82,7 +82,7 @@ variable "debian" {
 # Fedora Server
 variable "fedora" {
   default = {
-    url           = "https://download.fedoraproject.org/pub/fedora/linux/releases/40/Server/x86_64/iso/Fedora-Server-netinst-x86_64-40-1.14.iso"
+    url           = "https://download.fedoraproject.org/pub/fedora/linux/releases/41/Server/x86_64/iso/Fedora-Server-netinst-x86_64-41-1.4.iso"
     filename      = "fedora.iso"
   }
 }
@@ -90,7 +90,7 @@ variable "fedora" {
 # Kali Linux
 variable "kali" {
   default = {
-    url           = "https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-netinst-amd64.iso"
+    url           = "https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-installer-netinst-amd64.iso"
     filename      = "kali.iso"
   }
 }
@@ -98,7 +98,7 @@ variable "kali" {
 # Mint Linux
 variable "mint" {
   default = {
-    url           = "https://mirrors.cicku.me/linuxmint/iso/stable/22/linuxmint-22-cinnamon-64bit.iso"
+    url           = "https://mirrors.cicku.me/linuxmint/iso/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso"
     filename      = "mint.iso"
   }
 }
@@ -106,7 +106,7 @@ variable "mint" {
 # Rocky Linux
 variable "rocky" {
   default = {
-    url           = "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.4-x86_64-boot.iso"
+    url           = "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.5-x86_64-boot.iso"
     filename      = "rocky.iso"
   }
 }
@@ -114,7 +114,7 @@ variable "rocky" {
 # Ubuntu Server
 variable "ubuntu" {
   default = {
-    url           = "https://releases.ubuntu.com/24.04/ubuntu-24.04.1-live-server-amd64.iso"
+    url           = "https://releases.ubuntu.com/24.10/ubuntu-24.10-live-server-amd64.iso"
     filename      = "ubuntu.iso"
   }
 }

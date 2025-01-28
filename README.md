@@ -44,33 +44,33 @@ I try to keep these up to date but if you get any failures, the first thing to c
 
 | OS                                                    | Version    | VMID | Status |
 | ----------------------------------------------------- | ---------- | ---- | ------ |
-|  [Alma](https://almalinux.org/)                      | 9.4        | 1000 | Completed |
-|  [Alpine](https://www.alpinelinux.org/)              | 3.20       | 1001 | Completed |
+|  [Alma](https://almalinux.org/)                      | 9.5        | 1000 | Completed |
+|  [Alpine](https://www.alpinelinux.org/)              | 3.21       | 1001 | Completed |
 |  [Antix](https://antixlinux.com/)                    | 22         | 1002 | |
 | 󰣇 [Arch](https://archlinux.org/)                      | rolling    | 1003 | |
 |  [Artix](https://artixlinux.org/index.php)           | rolling    | 1004 | |
-|  [Centos](https://www.centos.org/centos-stream/)     | Streams 9  | 1005 | Completed |
+|  [Centos](https://www.centos.org/centos-stream/)     | Streams 10 | 1005 | Completed |
 |  [ClearOS](https://www.clearlinux.org/index.html)    | rolling    | 1006 | |
 |  [Core](http://www.tinycorelinux.net/)               | 15         | 1007 | |
-| 󰣚 [Debian](https://www.debian.org/)                   | 12.7       | 1008 | Commpleted |
+| 󰣚 [Debian](https://www.debian.org/)                   | 12.9       | 1008 | Commpleted |
 |  [Elementary](https://elementary.io/)                | 7.1        | 1009 | |
 |  [Endeavour](https://endeavouros.com/)               | Gemini     | 1010 | |
-| 󰣛 [Fedora](https://fedoraproject.org/)                | 40         | 1011 | Completed |
+| 󰣛 [Fedora](https://fedoraproject.org/)                | 41         | 1011 | Completed |
 | 󰣠 [FreeBSD](https://www.freebsd.org/)                 | 13.3       | 1012 | |
 | 󰣨 [Gentoo](https://www.gentoo.org/)                   | rolling    | 1013 | |
-|  [Kali](https://www.kali.org/)                       | rolling    | 1014 | Completed |
+|  [Kali](https://www.kali.org/)                       | rolling    | 1014 | initrd err |
 |  [Kali Purple](https://www.kali.org/)                | rolling    | 1015 | |
 | 󱘊 [Manjaro](https://manjaro.org/)                     | 23.1       | 1016 | |
-| 󰣭 [Mint](https://linuxmint.com/)                      | 22         | 1017 | Completed |
+| 󰣭 [Mint](https://linuxmint.com/)                      | 22.2       | 1017 | |
 | 󱄅 [Nix](https://nixos.org/)                           | 23.11      | 1018 | |
 |  [OpenBSD](https://www.openbsd.org/)                 | 7.5        | 1019 | |
 |  [OpenSUSE](https://www.opensuse.org/)               | Tumbleweed | 1020 | |
-|  [Parrot](https://parrotlinux.org/)                  | 6          | 1021 | |
+|  [Parrot](https://www.parrotsec.org/)                | 6.2        | 1021 | |
 |  [Peppermint](https://peppermintos.com/)             | rolling    | 1022 | |
 |  [Pop!](https://pop.system76.com/)                   | 22.04      | 1023 | |
 |  [QubesOS](https://www.qubes-os.org/)                | 4.2        | 1024 | |
-|  [Rocky](https://rockylinux.org/)                    | 9.4        | 1025 | Completed |
-| 󰕈 [Ubuntu](https://ubuntu.com/)                       | 24.04      | 1027 | Completed |
+|  [Rocky](https://rockylinux.org/)                    | 9.5        | 1025 | Completed |
+| 󰕈 [Ubuntu](https://ubuntu.com/)                       | 24.10      | 1027 | Completed |
 |  [Vanilla](https://vanillaos.org/)                   | 22.10      | 1028 | |
 |  [Void](https://voidlinux.org/)                      | glibc      | 1029 | |
 |  [Windows](https://www.microsoft.com/en-us/windows/) | 11         | 1030 | |
